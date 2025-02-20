@@ -2,7 +2,7 @@
 
 class Database {
     private static $host = "localhost";
-    private static $db_name = "mppi-2"; // Ganti dengan nama database Anda
+    private static $db_name = "mmpi_dev_v1"; // Ganti dengan nama database Anda
     private static $username = "root"; // Sesuaikan dengan konfigurasi MySQL Anda
     private static $password = ""; // Jika ada password, isi di sini
     private static $conn = null;
